@@ -19,3 +19,5 @@ Command-line converters to PNG/JPG/BMP/PNM
 [avifpng](https://github.com/Xelitan/avif2png/releases) - .AVIF + .HEIC 
 
 [psd2png](https://github.com/Xelitan/psd2png/releases/) - .PSD
+
+[gif2png](https://github.com/Xelitan/gif2png/releases/) - .GIF
