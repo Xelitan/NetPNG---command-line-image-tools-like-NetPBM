@@ -17,3 +17,5 @@ Command-line converters to PNG/JPG/BMP/PNM
 [webp2png](https://github.com/Xelitan/webp2png/releases) - WEBP
 
 [avifpng](https://github.com/Xelitan/avif2png/releases) - .AVIF + .HEIC 
+
+[psd2png](https://github.com/Xelitan/psd2png/releases/) - .PSD
