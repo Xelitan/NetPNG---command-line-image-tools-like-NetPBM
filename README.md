@@ -23,3 +23,5 @@ Command-line converters to PNG/JPG/BMP/PNM
 [gif2png](https://github.com/Xelitan/gif2png/releases/) - .GIF
 
 [wmf2png](https://github.com/Xelitan/wmf2png/releases/) - .WMF
+
+[px2png](https://github.com/Xelitan/pcx2png/releases/) - .PCX
